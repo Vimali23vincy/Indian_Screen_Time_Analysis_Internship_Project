@@ -1,16 +1,5 @@
 # 📊 Internship Project – Data Analysis & Dashboard Reporting
 
-
-![Dashboard Screenshot](assets/dashboard_screenshot.png)
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen" />
-  <img src="https://img.shields.io/badge/Tools-Python%20%7C%20Power%20BI-blue" />
-  <img src="https://img.shields.io/badge/Notebook-Jupyter-orange" />
-  <img src="https://img.shields.io/badge/Language-Python%203.10-yellow" />
-</p>
-
 ---
 
 ## 🚀 Project Overview
@@ -36,6 +25,7 @@ _Internship Project
 │     └── 📓 Week_6_Task.ipynb             
 └── 📄 LICENSE                                
 
+```
 ---
 
 ## 🛠 Tools & Technologies Used
@@ -62,7 +52,8 @@ _Internship Project
 > Replace the placeholders in the `assets/` folder with your actual images.
 
 ### 🔹 Dashboard Overview  
-![Dashboard Screenshot](assets/dashboard_screenshot.png)
+![Dashbard Screenshot](<img width="1417" height="799" alt="Sample_Dashboard_picture" src="https://github.com/user-attachments/assets/728e6f94-9799-4e9b-bbac-9f6fd512ed96" />
+/dashboard_screenshot.png)
 
 ---
 
